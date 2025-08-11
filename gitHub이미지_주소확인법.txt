@@ -1,0 +1,12 @@
+원본 링크: gitHub에서 추출된 URL
+
+https://github.com/numpy/numpy/blob/main/doc/source/_static/favicon/apple-touch-icon.png
+
+raw 링크 찾기 : 원본 링크 + ?raw=true
+
+https://github.com/numpy/numpy/blob/main/doc/source/_static/favicon/apple-touch-icon.png?raw=true
+
+raw 링크 : 이미지가 저장된 URL 
+	 [ html문서 <img src=' ' /> ]에 입력할 URL
+
+https://raw.githubusercontent.com/numpy/numpy/main/doc/source/_static/favicon/apple-touch-icon.png
